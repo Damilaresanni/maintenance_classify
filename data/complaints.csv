@@ -1,0 +1,413 @@
+complaints,category
+"The lights keep flickering",electrical
+"There is a crack in my kitchen wall",structural
+"bathroom basin tap wont turn off, water everywhere",plumbing
+"mouse ran across the kitchen floor this morning",pest_control
+"half the plug sockets downstairs are dead",electrical
+"The ceiling in my living room is sagging",structural
+"The loft hatch will not stay closed",carpentry
+"The window sill is splitting and has peeling paint",carpentry
+"The garage door frame is rotten at the bottom",carpentry
+"garden wall is leaning outwards and looks like it could fall",structural
+"floorboards creak loudly and one is sticking up in the hallway",carpentry
+"toilet keeps running, cistern never stops filling",plumbing
+"The handrail on the stairs is loose",carpentry
+"The internal door has a gap and rubs against the frame",carpentry
+"The roof is leaking in my garage",roofing
+"boiler has no pressure, gauge reads zero",heating
+"front door lock wont turn with the key",locks_security
+"slates missing from the roof after last nights wind",roofing
+"The floor in the hallway is uneven and sloping",structural
+"Damp patches are spreading across the living room wall",structural
+"The chimney stack is leaning to one side",structural
+"There are cracks above the window frames",structural
+"The garden wall is bulging and looks unstable",structural
+"The cooker hood light has gone out",electrical
+"There is no power in the kitchen sockets",electrical
+"The intercom system is not working",electrical
+"The backyard door does not open properly",carpentry
+"window wont stay open, the stay is broken",glazing
+"internal door warped, wont shut",carpentry
+"The balcony floor is sinking at one corner",structural
+"The plaster is crumbling off the wall in the hallway",structural
+"There is mould growing on the bathroom ceiling",structural
+"fridge making a loud humming and rattling noise",appliances
+"cracks running up the side of the extension",structural
+"peeling paint on the bathroom ceiling",decorating
+"balcony floor sinking at one end, feels spongy",structural
+"internal bedroom door rubs on the frame and wont latch",carpentry
+"strange gurgling noise from the drains when i flush",plumbing
+"ceiling fan wobbles and makes a buzzing sound",electrical
+"There is mould and a bowed ceiling in the bathroom, looks like water has been getting in for a while",structural
+"decking boards are rotten and one snapped when i stepped on it",carpentry
+"pipes banging every time the tap is turned off",plumbing
+"hallway bulb keeps blowing every couple of weeks",electrical
+"The pipes make a loud banging noise when I turn on the water",plumbing
+"The bath tap will not turn off fully",plumbing
+"The living room light switch is not working",electrical
+"The fuse box keeps tripping",electrical
+"The oven will not turn on",electrical
+"There is a burning smell from the wall socket",electrical
+"The doorbell is not ringing",electrical
+"The extractor fan in the bathroom has stopped working",electrical
+"toilet flush handle came off in my hand",plumbing
+"wasps keep coming in through the bedroom window",pest_control
+"light switch crackles when I turn it on",electrical
+"The hallway light bulb keeps blowing",electrical
+"The smoke alarm keeps beeping",electrical
+"The circuit breaker will not reset",electrical
+"radiator in the lounge makes a gurgling sound",heating
+"keys lost, need the locks changed urgently",locks_security
+"gutter sagging and pulling away from the fascia",roofing
+"washing machine leaves clothes soaking wet after the cycle",appliances
+"wall in the back bedroom is bowing outwards",structural
+"the doorbell does nothing when pressed",electrical
+"bricks outside are crumbling and falling apart in my hand",structural
+"drawer in the kitchen is jammed shut, cant get cutlery out",carpentry
+"I think theres a leak in the pipe behind the washing machine, floor is wet",plumbing
+"electric shower only runs cold now",electrical
+"The extension wiring in the garage is exposed",electrical
+"The heating thermostat is not responding",electrical
+"condensation trapped between the double glazing in the lounge",glazing
+"hinge on the airing cupboard door has pulled out of the frame",carpentry
+"cracks in the paint around all the door frames",decorating
+"water coming through the downstairs ceiling from the bathroom above",plumbing
+"found a dead rat in the shed",pest_control
+"trip switch goes every time i use the hairdryer",electrical
+"thermostat says 21 but the house is freezing",heating
+"back gate padlock is rusted shut",locks_security
+"water getting in around the chimney flashing",roofing
+"dishwasher door wont close properly",appliances
+"gap opening up between the ceiling and wall in the lounge",structural
+"bedroom window wont shut and rattles in the wind",glazing
+"kitchen unit plinth has come loose",carpentry
+"mould marks on the bedroom wall need cleaning and repainting",decorating
+"kitchen sink gurgles when the washing machine drains",plumbing
+"silverfish in the bathroom",pest_control
+"bulb holders in the hallway are loose and the light flickers",electrical
+"boiler keeps switching itself off",heating
+"door wont lock from the inside, thumb turn is stuck",locks_security
+"lead flashing has lifted on the dormer",roofing
+"freezer alarm keeps beeping",appliances
+"stairs have pulled away from the wall",structural
+"cracked pane in the bathroom window",glazing
+"gate wont latch since the post rotted",carpentry
+"wallpaper bubbling in the hallway",decorating
+"stopcock is seized and I cant turn the water off",plumbing
+"something has chewed through the bin bags under the sink",pest_control
+"no lights in the kitchen at all, bulbs are fine",electrical
+"heating wont come on at all, boiler is silent",heating
+"someone tried to force the front door and the lock is damaged",locks_security
+"ceiling stain in the top bedroom after every storm",roofing
+"tumble dryer smells of burning",appliances
+"doors upstairs wont close since the floor started dipping",structural
+"front door glass panel is cracked",glazing
+"stair tread is cracked and wobbly",carpentry
+"scuffs and marks all over the walls after the last tenants",decorating
+"low water pressure in the whole flat since monday",plumbing
+"bees swarming around the chimney",pest_control
+"consumer unit is warm to the touch and buzzing",electrical
+"carbon monoxide alarm went off next to the boiler",heating
+"entry phone wont release the main door",locks_security
+"felt on the shed roof is ripped",roofing
+"washing machine drum wont turn",appliances
+"big chunk of render fell off the front of the house",structural
+"draught coming through the window seals",glazing
+"fence post snapped at the base",carpentry
+"tiles in the shower are stained and the sealant has gone black",decorating
+"brown water coming out of the cold tap",plumbing
+"can hear mice in the walls at night",pest_control
+"spotlights in the kitchen keep going out one by one",electrical
+"underfloor heating only warm in one room",heating
+"garage door wont lock",locks_security
+"flat roof on the kitchen has blistered",roofing
+"hob keeps clicking even when its off",appliances
+"concrete floor in the garage has cracked right across",structural
+"broken window in the stairwell",glazing
+"door frame has split where the latch goes",carpentry
+"bathroom silicone is mouldy around the bath",decorating
+"shower tray leaking into the room below",plumbing
+"flies everywhere in the kitchen, cant find the source",pest_control
+"power cut in just my flat, neighbours have electricity",electrical
+"radiator is stone cold at the top and hot at the bottom",heating
+"euro cylinder is loose and spins in the door",locks_security
+"rainwater pouring out of the gutter joint at the back",roofing
+"integrated fridge door wont seal",appliances
+"damp and salt marks rising up the wall from the floor",structural
+"window pane has fallen out of the frame",glazing
+"bookshelf built into the alcove is sagging",carpentry
+"ceiling needs repainting now the leak is fixed",decorating
+"u bend under the sink is cracked and dripping",plumbing
+"squirrels in the loft",pest_control
+"outdoor socket in the garden not working",electrical
+"storage heater not heating up overnight",heating
+"keysafe code stopped working",locks_security
+"ridge tile missing, loft is damp",roofing
+"oven fan is rattling really loudly",appliances
+"crack in the party wall, can see light from next door",structural
+"uPVC window hinge snapped and the window is hanging",glazing
+"wooden steps at the back door are rotting",carpentry
+"kitchen wall tiles are cracked",decorating
+"garden tap leaking at the base",plumbing
+"ants coming in under the back door in a line",pest_control
+"dimmer switch in the lounge buzzes and gets hot",electrical
+"boiler leaking from the pipe underneath",heating
+"mortice lock seized in the back door",locks_security
+"bird nest blocking the gutter",roofing
+"microwave turntable wont rotate",appliances
+"bay window seems to be sinking away from the house",structural
+"frosted glass in the bathroom has a chip out of it",glazing
+"architrave around the door has come away",carpentry
+"vinyl floor lifting at the edges in the bathroom",decorating
+"sewage smell in the utility room",plumbing
+"woodworm holes in the stair banister",pest_control
+"emergency light in the stairwell keeps flashing",electrical
+"heating timer is stuck on and wont turn off",heating
+"burglar alarm panel beeping and wont reset",locks_security
+"soffit boards rotting under the eaves",roofing
+"ice maker in the fridge is leaking onto the floor",appliances
+"joists in the kitchen floor feel bouncy",structural
+"skylight in the loft conversion is cracked",glazing
+"bathroom cabinet door hanging by one hinge",carpentry
+"grout turning green in the shower",decorating
+"bath taps are loose and spin round",plumbing
+"carpet beetles found in the lounge",pest_control
+"shaver socket in the bathroom is dead",electrical
+"hot water takes forever to heat up",heating
+"no key for the bedroom window locks",locks_security
+"tiles cracked on the porch roof",roofing
+"washer dryer showing error E18",appliances
+"bulge in the ceiling under the bath",structural
+"window handle is stiff and wont lock",glazing
+"wooden gate dragging on the ground",carpentry
+"paint bubbling above the radiator",decorating
+"toilet rocks when you sit on it and leaks at the base",plumbing
+"foxes digging up the garden and getting into the bins",pest_control
+"cable behind the cooker has melted",electrical
+"boiler flue is making a rattling noise outside",heating
+"communal bin store lock is broken",locks_security
+"moss and leaves clogging the valley gutter",roofing
+"oven door glass is cracked",appliances
+"crumbling mortar between the bricks on the gable end",structural
+"fogged up kitchen window, you can see the blinds through it",glazing
+"pantry door catches on the floor and wont close",carpentry
+"exterior paint flaking off the front door",decorating
+"drain outside overflowing after rain",plumbing
+"pigeons roosting in the loft",pest_control
+"smoke alarm wont stop going off but theres no smoke",electrical
+"radiator valve stuck on and wont turn",heating
+"key snapped off in the patio door lock",locks_security
+"roof leaking above the stairwell",roofing
+"cooker clock stuck flashing 12:00 and the oven wont heat",appliances
+"garden retaining wall has collapsed",structural
+"sliding patio door has come off its track",glazing
+"boxing in around the pipes has fallen off",carpentry
+"carpet frayed and stained on the landing",decorating
+"hot tap runs cold then boiling, never steady",plumbing
+"exposed wires hanging out of the wall in the garage",electrical
+"door chain has come off the frame",locks_security
+"worktop joint by the hob has opened up",carpentry
+"boiler making a weird kettling noise and pressure keeps dropping",heating
+"mice droppings behind the cooker again",pest_control
+"fridge freezer not cooling, all the food has gone off",appliances
+"locked out!! key snapped in the front door lock",locks_security
+"roof tile slipped and is lying in the garden",roofing
+"There is a bad smell coming from the bathroom drain",plumbing
+"The shower head is dripping constantly",plumbing
+"The toilet seat is loose and the cistern is cracked",plumbing
+"The outside tap is frozen and won't turn",plumbing
+"Water is coming up through the shower drain",plumbing
+"The dishwasher is not draining properly",plumbing
+"The radiator is leaking water at the valve",plumbing
+"bats roosting in the eaves, what should I do",pest_control
+"chimney pot has cracked and is leaning",roofing
+"crack around the chimney breast inside the bedroom",structural
+"paint peeling off the bathroom walls in sheets",decorating
+"double glazed window has condensation between the panes",glazing
+"toilet wont flush properly",plumbing
+"bedroom socket sparks when i plug anything in",electrical
+"big crack above the lounge window getting wider",structural
+"wardrobe door fell off its hinges",carpentry
+"radiators cold at the bottom, need bleeding i think",heating
+"theres a wasp nest in the loft, loads flying in and out",pest_control
+"washing machine wont spin and the door is stuck locked",appliances
+"back door lock is really stiff and wont turn",locks_security
+"gutter overflowing and pouring water down the front wall",roofing
+"wallpaper coming away at the seams in the lounge",decorating
+"broken window pane after the kids football",glazing
+"no hot water since yesterday",plumbing
+"lights flicker when the dishwasher is on",electrical
+"damp patch spreading up the hallway wall, musty smell",structural
+"front door sticks in the frame, have to shoulder it shut",carpentry
+"no heating or hot water, boiler display shows F22",heating
+"cockroaches in the kitchen at night",pest_control
+"tumble dryer takes hours and clothes still damp",appliances
+"window lock broken, cant secure bedroom window",locks_security
+"water dripping through the ceiling in heavy rain, think its the roof",roofing
+"previous tenants left scuff marks and stains all over the hallway",decorating
+"window wont close fully, big draught coming through",glazing
+"sink blocked",plumbing
+"oven died mid cooking, display is blank",electrical
+"floor by the front door slopes, marbles roll across it",structural
+"skirting board coming off the wall in the dining room",carpentry
+"smell of gas near the boiler cupboard!!",heating
+"scratching in the ceiling every night, rats??",pest_control
+"dishwasher beeping with error code E24 and wont start",appliances
+"communal front door doesnt click shut so anyone can walk in",locks_security
+"flat roof over the extension is pooling water",roofing
+"grout between the bathroom tiles is cracked and missing",decorating
+"patio door glass has a crack right across it",glazing
+"kitchen tap dripping all night",plumbing
+"smoke alarm chirping every few mins even with new battery",electrical
+"ceiling in the bedroom looks like its sagging in the middle",structural
+"kitchen drawer jammed shut, cant get cutlery out",carpentry
+"one radiator in the bedroom wont heat up at all",heating
+"ants all over the worktop every morning",pest_control
+"microwave sparks when running",appliances
+"need locks changed, previous tenant never returned the keys",locks_security
+"downpipe has come off the wall",roofing
+"ceiling paint yellowing above the cooker",decorating
+"seals on the bathroom window have perished and its leaking air",glazing
+"extractor fan in the bathroom is dead",electrical
+"garden wall is leaning outwards, looks ready to fall",structural
+"decking boards rotten, one snapped when i stepped on it",carpentry
+"central heating comes on at random times in the night",heating
+"bed bugs in the spare room mattress",pest_control
+"freezer completely iced up, door wont shut",appliances
+"key fob wont open the building entrance",locks_security
+"ridge tiles loose after the storm",roofing
+"artex ceiling flaking in the bedroom",decorating
+"misted up windows in all the bedrooms",glazing
+"radiator valve leaking, puddle on the carpet",plumbing
+"no power in the living room sockets but lights work",electrical
+"cracks in the garage wall wider than last month",structural
+"loft hatch wont stay shut, keeps dropping open",carpentry
+"boiler pilot light keeps going out",heating
+"The brickwork outside is crumbling",structural
+"The lintel above the garage door appears to be cracked",structural
+"kitchen cabinet hinge snapped and the door is hanging",carpentry
+"water leaking from under the bathroom sink into the cupboard",plumbing
+"fuse keeps tripping whenever i use the kettle and toaster together",electrical
+"The patio door is dragging on the floor",carpentry
+"The fitted shelving in the study is pulling off the wall",carpentry
+"pigeons nesting under the balcony, mess everywhere",pest_control
+"washing machine shakes violently and walks across the floor",appliances
+"patio door wont lock",locks_security
+"moss all over the roof and its blocking the gutter",roofing
+"bedroom wall needs repainting after the damp was treated",decorating
+"velux window leaks when its windy",glazing
+"toilet blocked and water rising",plumbing
+"stairs feel like they move when you walk down",structural
+"shed door warped and wont close",carpentry
+"The foundation has a visible crack near the front door",structural
+"The staircase feels unstable and moves when I walk on it",structural
+"The external wall has a gap where it meets the roof",structural
+"radiators only lukewarm even on max",heating
+"fleas in the carpet since the last tenants",pest_control
+"hob rings wont light",appliances
+"mortice lock on the side gate is rusted solid",locks_security
+"i can see sky through a tear in the loft felt",roofing
+"tiles on the kitchen splashback have fallen off",decorating
+"glass in the front door is smashed",glazing
+"The electric shower is not heating the water",electrical
+"The outdoor security light is not coming on",electrical
+"The sockets in the bedroom are sparking",electrical
+"water leaking under the bathroom sink into the cupboard",plumbing
+"exposed wires hanging out of the garage wall",electrical
+"porch pulling away from the house, gap you can fit a hand in",structural
+"worktop by the sink swollen and peeling up",carpentry
+"moths eating clothes in the wardrobe",pest_control
+"window handle snapped off in my hand",glazing
+"roof leaking in my garage",roofing
+"fascia board hanging off at the corner of the house",roofing
+"toilet wont flush properly again",plumbing
+"sockt in the bedroom has stopped working",electrical
+"Big crack appeared above the bedroom window after the rain",structural
+"door to the back garden is stuck, have to kick it to open",carpentry
+"kitchen tap dripping all night, driving me mad",plumbing
+"lights flicker whenever the washing machine is on",electrical
+"ceiling looks like its sinking in the corner of the lounge",structural
+"wardrobe door fell off",carpentry
+"The kitchen worktop has swollen near the sink",carpentry
+"The kitchen tap is leaking",plumbing
+"The toilet does not flush",plumbing
+"The bedroom socket is not working",electrical
+"no hot water since yesterday morning!!",plumbing
+"Hi, the oven has just died mid cooking and the display is blank",electrical
+"damp spreading up the wall in the hallway, smells musty",structural
+"the sash window wont open at all, painted shut i think",carpentry
+"The window frame in the bedroom is rotting",carpentry
+"The skirting board is coming away from the wall",carpentry
+"The floorboards in the hallway are creaking and lifting",carpentry
+"The wooden fence panel has fallen over",carpentry
+"The shed door is warped and won't shut",carpentry
+"The drawer in the kitchen is jammed",carpentry
+"burning smell near the plug socket in the kitchen, switched it off at the wall",electrical
+"floor by the front door is sloping, marbles roll across it",structural
+"shower pressure is pathetic, barely a trickle",plumbing
+"The pipe under the basin is dripping",plumbing
+"There is no water coming out of the kitchen tap",plumbing
+"The toilet is blocked and overflowing",plumbing
+"heating thermostat screen is blank and the boiler wont fire",electrical
+"theres a crack going diagonally from the door frame to the ceiling",structural
+"bathroom extractor fan is dead",electrical
+"chimney breast has a gap where it meets the wall",structural
+"fence panel blew down in the storm",carpentry
+"BATH WONT DRAIN",plumbing
+"plaster falling off the wall in the spare room in chunks",structural
+"patio door scrapes along the floor and is really hard to slide",carpentry
+"radiator valve is leaking and theres a puddle on the carpet",plumbing
+"outside light has stopped working, sensor maybe?",electrical
+"The ceiling fan makes a buzzing noise and won't spin",electrical
+"The USB wall socket is not charging devices",electrical
+"The lights in the bathroom are dim and flickering",electrical
+"There is a large crack running along the bedroom ceiling",structural
+"steps at the front of the house are cracking and breaking up",structural
+"toilet blocked and water is rising",plumbing
+"no power at all in the living room sockets but the lights work",electrical
+"i can see daylight through a gap between the wall and the roof",structural
+"window frame in the bathroom is soft and rotten, screwdriver goes right through",carpentry
+"dishwasher full of dirty water after every cycle",plumbing
+"The porch is pulling away from the main house",structural
+"The ceiling in the bathroom has water stains and is bowing",structural
+"The wall between the kitchen and dining room has a diagonal crack",structural
+"The concrete steps at the front are breaking apart",structural
+"The loft floor is sagging under the weight of storage",structural
+"There is subsidence visible on the side of the house",structural
+"The wardrobe door has come off its hinges",carpentry
+"The kitchen cabinet door is hanging loose",carpentry
+"The front door is sticking and won't close properly",carpentry
+"cracks in the garage wall getting wider since last month",structural
+"handrail on the stairs is wobbly, feels unsafe for the kids",carpentry
+"outside tap wont turn and i think its frozen",plumbing
+"sparks when i plug anything into the bedroom socket!!",electrical
+"The bathroom sink is blocked and won't drain",plumbing
+"The shower has very low water pressure",plumbing
+"There is a leak under the kitchen sink",plumbing
+"The bathtub drain is gurgling and draining slowly",plumbing
+"stair feels like it moves when you walk down, creaks too",structural
+"shed door is warped and wont close",carpentry
+"washing machine hose leaking at the connection",plumbing
+"intercom buzzer isnt working so visitors cant get in",electrical
+"front porch seems to be pulling away from the house, theres a gap you can fit a hand in",structural
+"The toilet keeps running after flushing",plumbing
+"The hot water is not working",plumbing
+"The water heater is leaking onto the floor",plumbing
+"The washing machine pipe is leaking",plumbing
+"worktop by the sink has swollen and is peeling up",carpentry
+"kitchen sink smells awful and drains really slowly",plumbing
+"USB socket in the wall not charging my phone",electrical
+"The sash window will not slide open",carpentry
+"The decking in the garden has rotten boards",carpentry
+"The bathroom door does not latch",carpentry
+"house looks like its sinking on one side, doors are jamming too",structural
+"front door sticks in the frame and I have to shoulder it to close",carpentry
+"no water from kitchen tap",plumbing
+"cooker hood light gone and the fan is making a grinding noise",electrical
+"lintel over the garage door has a big crack in it",structural
+"shelves in the study are coming away from the wall with all the books on",carpentry
+"water heater is dripping from the bottom, getting worse",plumbing
+"bathroom lights are really dim and buzz when switched on",electrical
+"loft floor is bending under the boxes we put up there",structural
+"window sill is splitting and the paint is flaking off",carpentry
+"shower head wont stop dripping even when its turned off fully",plumbing
